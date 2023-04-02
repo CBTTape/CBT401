@@ -1,0 +1,15 @@
+2023-04-03 00:02:54.360139 - Initialized conversion of CBT401
+2023-04-03 00:02:54.712623 - Received CBT.V504.FILE401.PDS from FILE401.XMI 
+2023-04-03 00:02:54.715296 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:02:54.716410 - Found $README.txt (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/$README
+2023-04-03 00:02:54.717900 - Found @FILE401.txt (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/@FILE401
+2023-04-03 00:02:54.719084 - Found GPL.txt (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/GPL
+2023-04-03 00:02:54.720878 - Found LINKSBOL.jcl (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/LINKSBOL
+2023-04-03 00:02:54.721876 - Found LINKSPRG.jcl (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/LINKSPRG
+2023-04-03 00:02:54.722929 - Found OSINT.txt (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/OSINT
+2023-04-03 00:02:54.722940 - Found SBOLOBJ.bin containing application/octet-stream, moved to PDS/SBOLOBJ
+2023-04-03 00:02:54.723911 - Found SLIBOBJ.bin containing application/octet-stream, moved to PDS/SLIBOBJ
+2023-04-03 00:02:54.725037 - Found SPITBOL.bin containing application/octet-stream, moved to PDS/SPITBOL
+2023-04-03 00:02:54.728071 - Found TESTPGMS.txt (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/TESTPGMS
+2023-04-03 00:02:54.729045 - Found TESTSBOL.jcl (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/TESTSBOL
+2023-04-03 00:02:54.730008 - Found TFSV23.txt (text/plain) in CBT.V504.FILE401.PDS, moved to PDS/TFSV23
